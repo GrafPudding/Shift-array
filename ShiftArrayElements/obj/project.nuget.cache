@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4sr+tYYD+kRF8HUC25h2acsD/dknaR/axW0rllvjVKjux2pzW7+ZVfz3QhSXTr/lpgh0JMtc71UHzNA3sUhZew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RomaNov\\source\\repos\\shift-array-elements\\ShiftArrayElements\\ShiftArrayElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomaNov\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\RomaNov\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

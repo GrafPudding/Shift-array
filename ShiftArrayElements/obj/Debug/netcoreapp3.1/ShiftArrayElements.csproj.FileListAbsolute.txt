@@ -1,0 +1,10 @@
+C:\Users\RomaNov\source\repos\shift-array-elements\ShiftArrayElements\bin\Debug\netcoreapp3.1\ShiftArrayElements.deps.json
+C:\Users\RomaNov\source\repos\shift-array-elements\ShiftArrayElements\bin\Debug\netcoreapp3.1\ShiftArrayElements.dll
+C:\Users\RomaNov\source\repos\shift-array-elements\ShiftArrayElements\bin\Debug\netcoreapp3.1\ShiftArrayElements.pdb
+C:\Users\RomaNov\source\repos\shift-array-elements\ShiftArrayElements\obj\Debug\netcoreapp3.1\ShiftArrayElements.csproj.AssemblyReference.cache
+C:\Users\RomaNov\source\repos\shift-array-elements\ShiftArrayElements\obj\Debug\netcoreapp3.1\ShiftArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RomaNov\source\repos\shift-array-elements\ShiftArrayElements\obj\Debug\netcoreapp3.1\ShiftArrayElements.AssemblyInfoInputs.cache
+C:\Users\RomaNov\source\repos\shift-array-elements\ShiftArrayElements\obj\Debug\netcoreapp3.1\ShiftArrayElements.AssemblyInfo.cs
+C:\Users\RomaNov\source\repos\shift-array-elements\ShiftArrayElements\obj\Debug\netcoreapp3.1\ShiftArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\RomaNov\source\repos\shift-array-elements\ShiftArrayElements\obj\Debug\netcoreapp3.1\ShiftArrayElements.dll
+C:\Users\RomaNov\source\repos\shift-array-elements\ShiftArrayElements\obj\Debug\netcoreapp3.1\ShiftArrayElements.pdb
